@@ -1,10 +1,10 @@
 Handwriting Recognition Project
 
-Copyright 2013-2014 Xiaofei (Ð¡·É).
+Copyright 2013-2014 Xiaofei.
 All Rights Reserved.
 
 This project is an Android application project. It is 
-developed by Xiaofei (Ð¡·É).
+developed by Xiaofei.
 
 This project demonstrates the principle and the practical
 application of the naive Bayes classifier.
