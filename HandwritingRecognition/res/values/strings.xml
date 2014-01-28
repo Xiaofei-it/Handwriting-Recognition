@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Handwriting Recognition</string>
+    <string name="menu_about">About</string>
+    <string name="menu_help">Help</string>
+    <string name="reset">Reset</string>
+    <string name="purge">Purge DB</string>
+    <string name="recognize">Recognize</string>
+    <string name="about">This application is developed by Xiaofei (小飞).\nCopyright 2013\-2014 Xiaofei (小飞). All Rights Reserved.\nThis application is open-source software. You can obtain its source code at Xiaofei\'s GitHub:\nhttps://github.com/Xiaofei-it\nXiaofei\'s email:\nxiaofei.it@gmail.com\nXiaofei\'s technical blog (in Chinese):\nhttp://blog.csdn.net/xiaofei_it"</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="help">This app demonstrates the principle of the naive Bayes classifier.\n If it is the first time you use this app, its database is empty and you should teach it some samples.\n 1. Write a digit on the screen and touch the corresponding button to let the app learn a sample.\n 2. After the app learns some samples, you can write a digit and touch \"Recognize\" to let the app tell you which digit you have written.\n 3. Let the app learn more samples and you will see: The more samples it learns, the cleverer it will be.</string>
+    <string name="confirm_purge">Purge the database?</string>
+    <string name="learn_sample">Thank you!\nYou have taught me a sample and I have learned it.</string>
+    <string name="result">Result:</string>
+    <string name="po_list">The probabilities of each digit are listed below:</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手写识别</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_help">帮助</string>
+    <string name="reset">重置</string>
+    <string name="purge">清空数据库</string>
+    <string name="recognize">识别</string>
+    <string name="about">本应用由小飞开发。\nCopyright 2013\-2014 小飞. All Rights Reserved.\n本应用是开源软件。获取源代码请访问小飞的GitHub：\nhttps://github.com/Xiaofei-it\n小飞的email：\nxiaofei.it@gmail.com\n小飞的技术博客：\nhttp://blog.csdn.net/xiaofei_it"</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="help">本应用展示了朴素贝叶斯分类器的原理。\n 如果这是您首次使用本应用，那么它的数据库是空的，您应该教它一些样例。\n 1、在屏幕上写一个数字，点击相应的按钮让本应用学习一个样例。\n 2、在本应用学习若干样例后，您可以在屏幕上写一个数字，点击“识别”让它识别您写的数字。\n 3、让它多学一些样例。您会发现：它学的样例越多，它也就越聪明。</string>
+    <string name="confirm_purge">清空数据库？</string>
+    <string name="learn_sample">谢谢您！\n您教了我一个样例，我已经学习了它。</string>
+    <string name="result">结果是：</string>
+    <string name="po_list">各个数字的概率如下：</string>
+</resources>
